@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-launchbadge-browser",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/launchbadge/eslint-config-launchbadge-browser.git"
+  },
+  "author": "LaunchBadge (contact@launchbadge.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/launchbadge/eslint-config-launchbadge-browser/issues"
+  },
+  "homepage": "https://github.com/launchbadge/eslint-config-launchbadge-browser#readme",
+  "dependencies": {
+    "eslint-plugin-babel": "^3.0.0",
+    "eslint-plugin-react": "^3.15.0"
+  }
+}
